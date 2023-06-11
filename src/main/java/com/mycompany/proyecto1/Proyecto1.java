@@ -6,7 +6,7 @@ package com.mycompany.proyecto1;
 
 /**
  *
- * @author JH_AN
+ * @author JH_AN grupo 12
  */
 public class Proyecto1 {
 
